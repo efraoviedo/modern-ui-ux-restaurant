@@ -24,3 +24,5 @@ yarn-error.log*
 
 # vscode
 .vscode
+# personal readme
+README1.md

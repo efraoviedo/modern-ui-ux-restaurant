@@ -1,6 +1,8 @@
 # Restaurant Landing Page
 ### [Live Site](https://gericht-restaurant.com/)
 
+yarn start
+
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
